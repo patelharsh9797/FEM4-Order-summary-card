@@ -1,0 +1,12 @@
+@media screen and (max-width: 375px) {
+    body {
+        background: url("../images/pattern-background-mobile.svg");
+        background-repeat: no-repeat;
+        background-color: var(--clr-primary-900);
+    }
+
+    .container {
+        margin: 4.5rem auto;
+
+    }
+}
